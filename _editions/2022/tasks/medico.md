@@ -53,6 +53,8 @@ All Study participants agreed to donate their data for the purpose of science an
 * [Data download link 1 - Kaggle](https://www.kaggle.com/datasets/vlbthambawita/visemtracking)
 * [Data download link 2 - Simula-dataset](https://datasets.simula.no/visem-tracking/)
 
+#### Submission link:
+[Submit your solutions here](https://forms.gle/R95T2uqjTVberbkb6)
 
 #### Ground truth
 The ground truth data provided in this task were prepared by expert computer scientists and verified by domain experts.
