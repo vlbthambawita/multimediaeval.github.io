@@ -49,7 +49,7 @@ The ground truth data provided in this task were prepared by expert computer sci
 #### Evaluation methodology
 For Task 1 and Task 2 will be evaluated using standard detection and tracking metrics. For detection, this includes precision, recall, mAP@50, and mAP@50-95. For tracking we use Jonathan Luiten's TrackEval library, which includes HOTA and other MOT evaluation metrics. Efficiency will be evaluated based on the number of samples that can be processed per second. Task 1 will only focus on the prediction metrics, while Task 2 will be weighted by the speed of the system.
 
-For Task 3 and Task 3, we can use Mean Squared Error (MSE) and Mean Absolute Percentage Error (MAPE) to evaluate the predictions.
+For Task 3 and Task 4, we can use Mean Squared Error (MSE) and Mean Absolute Percentage Error (MAPE) to evaluate the predictions.
 
 #### Quest for insight
 * How accurate are deep learning methods for identifying sperms in a fresh sample?
